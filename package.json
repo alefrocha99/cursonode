@@ -1,0 +1,33 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Repositório do curso de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefrocha99/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "crypto"
+  ],
+  "author": "Alef Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alefrocha99/cursonode/issues"
+  },
+  "homepage": "https://github.com/alefrocha99/cursonode#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
